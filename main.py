@@ -1,5 +1,7 @@
 
 def add(a,b):
-    return a+b
+    e=a+b
+    print(f'hello {e}')
+    return e
 
-add(2+3)
+add(2,3)
